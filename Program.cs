@@ -19,16 +19,22 @@ namespace firstapp
             decimal money = 232323M;
 
             age = 89;
-
-
             Console.WriteLine(x);
             Console.WriteLine(y);
-
             Console.WriteLine(age);
             Console.WriteLine(num);
             Console.WriteLine(fr);
             Console.WriteLine(floatin);
             Console.WriteLine(money);
+
+
+
+            //STRING VARIABLES 
+
+            char name = 'k';
+          Console.WriteLine(name);
+            string namer = "loki";
+          Console.WriteLine(namer);
             Console.ReadLine();
 
         }
