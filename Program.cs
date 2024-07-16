@@ -35,6 +35,14 @@ namespace firstapp
           Console.WriteLine(name);
             string namer = "loki";
           Console.WriteLine(namer);
+
+
+            //string into number
+
+            string strng = "2323";
+            int strngtonum = Convert.ToInt32(strng);
+            Console.WriteLine(strngtonum);
+
             Console.ReadLine();
 
         }
